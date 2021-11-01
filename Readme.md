@@ -5,10 +5,10 @@
 </p>
 
 
-[![Size](https://img.shields.io/github/repo-size/d3vilgulshan/d3VIL-spam-bot?style=flat-square&color=orange)](https://github.com/d3vilgulshan/d3VIL-spam-bot/)   
+[![Size](https://img.shields.io/github/repo-size/Yashraj5233/FLAMES-SPAM-BOT?style=flat-square&color=orange)](https://github.com/Yashraj5233/FLAMES-SPAM-BOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/d3vilgulshan/d3VIL-spam-bot/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/d3vilgulshan/d3VIL-spam-bot)   
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Yashraj5233/FLAMES-SPAM-BOT/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Yashraj5233/FLAMES-SPAM-BOT)   
 
 -------------------------------------------------
 
@@ -19,23 +19,23 @@
 
 -------------------------------------------------
 
-## CREATOR 📍 [**D3VILGULSHAN**](https://t.me/D3VILGULSHAN)
+## CREATOR 📍 [**KING OF FLAME**](https://t.me/THEKINGOFFLAME786)
                    
 -------------------------------------------------
 
 ## DEPLOY ON HEROKU 📍
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/D3VILGULSHAN/d3VIL-spam-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yashraj5233/FLAMES-SPAM-BOT)
 ------------------------------------------------
 
 
 ## STRING FROM HERE 📍
 
-[![REPL](https://repl.it/badge/github/D3VILGULSHAN/d3vil-spam-bot)](https://replit.com/@D3VILGULSHAN1/D3VIL-SPAM-BOT#main.py)
+[![REPL](https://repl.it/badge/github/Yashraj5233/FLAMES-SPAM-BOT)](https://replit.com/@D3VILGULSHAN1/D3VIL-SPAM-BOT#main.py)
     
 -------------------------------------------------
 
 ## CREDITS 📍
 
-- [𝖣3𝖵𝖨𝖫𝖦𝖴𝖫𝖲𝖧𝖠𝖭](https://t.me/D3𝖵𝖨𝖫𝖦𝖴𝖫𝖲𝖧𝖠𝖭)  __OWNER__
-- [𝖣3𝖵𝖨𝖫 𝖪𝖱𝖨𝖲𝖧](https://t.me/D3_krish) __DEV__
-- [YUKKI BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
+- [KING OF FLAME](https://t.me/D3𝖵𝖨𝖫𝖦𝖴𝖫𝖲𝖧𝖠𝖭)  __OWNER__
+- [D3VILGULSHAN](https://t.me/D3VILGULSHAN) __DEV__
+- [D3VIL BOT](https://github.com/D3VILGULSHAN/D3VIL_SPPAM-BOT)
