@@ -30,7 +30,7 @@
 
 ## STRING FROM HERE 📍
 
-[![REPL](https://repl.it/badge/github/Yashraj5233/FLAMES-SPAM-BOT)](https://replit.com/@D3VILGULSHAN1/D3VIL-SPAM-BOT#main.py)
+[![REPL](https://repl.it/badge/github/Yashraj5233/FLAMES-SPAM-BOT)](https://replit.com/@Technical-Advis/FLAMES-SPAM-BOT#main.py)
     
 -------------------------------------------------
 
