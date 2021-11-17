@@ -5,9 +5,9 @@
 </p>
 
 
-[![Size](https://img.shields.io/github/repo-size/Yashraj5233/FLAMES-SPAM-BOT?style=flat-square&color=orange)](https://github.com/Yashraj5233/FLAMES-SPAM-BOT/)   
+[![Size](https://img.shields.io/github/repo-size/KING-OF-FLAME/FLAMES-SPAM-BOT?style=flat-square&color=orange)](https://github.com/KING-OF-FLAME/FLAMES-SPAM-BOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Yashraj5233/FLAMES-SPAM-BOT/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KING-OF-FLAME/FLAMES-SPAM-BOT/graphs/commit-activity)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Yashraj5233/FLAMES-SPAM-BOT)   
 
 -------------------------------------------------
@@ -24,13 +24,13 @@
 -------------------------------------------------
 
 ## DEPLOY ON HEROKU 📍
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yashraj5233/FLAMES-SPAM-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KING-OF-FLAME/FLAMES-SPAM-BOT)
 ------------------------------------------------
 
 
 ## STRING FROM HERE 📍
 
-[![REPL](https://repl.it/badge/github/Yashraj5233/FLAMES-SPAM-BOT)](https://replit.com/@D3VILGULSHAN1/D3VIL-SPAM-BOT#main.py)
+[![REPL](https://repl.it/badge/github/KING-OF-FLAME/FLAMES-SPAM-BOT)](https://replit.com/@D3VILGULSHAN1/D3VIL-SPAM-BOT#main.py)
     
 -------------------------------------------------
 
