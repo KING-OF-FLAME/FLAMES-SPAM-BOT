@@ -36,6 +36,6 @@
 
 ## CREDITS 📍
 
-- [KING OF FLAME](https://t.me/D3𝖵𝖨𝖫𝖦𝖴𝖫𝖲𝖧𝖠𝖭)  __OWNER__
-- [D3VILGULSHAN](https://t.me/D3VILGULSHAN) __DEV__
-- [D3VIL BOT](https://github.com/D3VILGULSHAN/D3VIL_SPPAM-BOT)
+- [KING OF FLAME](https://t.me/THEKINGOFFLAME786)  __OWNER__
+- [KING OF FLAME](https://t.me/THEKINGOFFLAME786) __DEV__
+
